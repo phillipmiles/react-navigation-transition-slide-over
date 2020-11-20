@@ -1,0 +1,30 @@
+{
+  "name": "react-navigation-transition-slide-over",
+  "version": "0.0.1",
+  "description": "Screen transition effect for react native apps using react-navigation where the previous screen shrinks and fades out as the new screen slides over the top of it.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipmiles/react-navigation-transition-slide-over.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-navigation",
+    "transition"
+  ],
+  "author": "Phillip Miles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phillipmiles/react-navigation-transition-slide-over/issues"
+  },
+  "homepage": "https://github.com/phillipmiles/react-navigation-transition-slide-over#readme",
+  "peerDependencies": {
+    "react-native": ">=0.63.0"
+  }
+}
